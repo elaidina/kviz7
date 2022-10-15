@@ -1,131 +1,131 @@
 const quizData = [
     {
-        question: "Hrušky jsou velká auta.",
+        question: "1. Hrušky jsou velká auta.",
         a: "pravda",
         b: "lež",
         
         correct: "b",
     },
     {
-      question: "V bance se peče chleba.",
+      question: "2. V bance se peče chleba.",
       a: "pravda",
       b: "lež",
       
       correct: "b",
   },
   {
-    question: "Panenky umí mluvit.",
+    question: "3. Panenky umí mluvit.",
     a: "pravda",
     b: "lež",
     
     correct: "b",
 },
 {
-  question: "Zelená na semaforu znamená, že můžeme jít.",
+  question: "4. Zelená na semaforu znamená, že můžeme jít.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },{
-  question: "Včely sbírají pyl a dělají z něj marmeládu.",
+  question: "5. Včely sbírají pyl a dělají z něj marmeládu.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "Hříbátko je mládětem pejska.",
+question: "6. Hříbátko je mládětem pejska.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-  question: "Broskev je chutná zelenina.",
+  question: "7. Broskev je chutná zelenina.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "Bambi byl malý koloušek.",
+question: "8. Bambi byl malý koloušek.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-  question: "Zmrzlina se dělá z křídy.",
+  question: "9. Zmrzlina se dělá z křídy.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "Lepísí páska se používá na slepování papíru.",
+question: "10. Lepící páska se používá na slepování papíru.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-  question: "Voda se vypařuje a mění se na páru.",
+  question: "11. Voda se vypařuje a mění se na páru.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },
 {
-question: "Zem se otáčí kolem slunce.",
+question: "12. Zem se otáčí kolem slunce.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-  question: "Mangnet přitahuje železné předměty.",
+  question: "13. Magnet přitahuje železné předměty.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },
 {
-question: "Lidé potřebují kyslík na dýchání.",
+question: "14. Lidé potřebují kyslík na dýchání.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-  question: "Pták se líhne z vajíčka.",
+  question: "15. Pták se líhne z vajíčka.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },
 {
-question: "Všechny děti se učí počítat.",
+question: "16. Všechny děti se učí počítat.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-  question: "Klavír je hudevní nástroj.",
+  question: "17. Klavír je hudební nástroj.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },
 {
-question: "Knížky se vyrábí z kakaa.",
+question: "18. Knížky se vyrábí z kakaa.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-  question: "Leden je první měsíc v roku.",
+  question: "19. Leden je první měsíc v roku.",
   a: "pravda",
   b: "lež",
   
   correct: "a",
 },
 {
-question: "Listy padají ze stromů.",
+question: "20. Listy padají ze stromů.",
 a: "pravda",
 b: "lež",
 
